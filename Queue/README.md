@@ -2,7 +2,7 @@
 
 A Queue is a linear data structure, where all the insertion happens in the rear and deletion happens in the front. Hence it is called a FIFO(First in, First out) data structure.
 
-![Queue](../../img/gfg_queue.png)
+![Queue](../img/gfg_queue.png)
 
 ### **There are four major operations that are performed on Queue:**
 
