@@ -11,7 +11,7 @@ to link to the link node.
 **1) Singly linked list:**
 A linked list with a node that contains one data field and one link field which contains the address of the next node
 
-![Singll](../../img/gfg_singlyll.png)
+![Singll](../img/gfg_singlyll.png)
 
 **2) Doubly linked list:**
 A linked list with a node that contains one data field and two link fields, one which contains the address of the next node and one which contains the address of the previous node
