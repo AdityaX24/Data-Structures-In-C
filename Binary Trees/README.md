@@ -7,7 +7,7 @@ It is a finite set of elements that is either empty or is partitioned into three
 2) A binary tree, called the left binary tree
 3) A binary tree, called the right binary tree
 
-![bintree](../../img/gfg_bintrees.png)
+![bintree](../img/gfg_bintrees.png)
 
 ### **We will be looking into Binary Search Trees**
 
@@ -18,6 +18,6 @@ key and satisfies the conditions:
 node
 - The left and right subtrees of the root are again binary search trees
 
-![binsearchtree](../../img/gfg_binsearchtrees.png)
+![binsearchtree](../img/gfg_binsearchtrees.png)
 
 Image Courtesy: [Geeks for geeks](https://www.geeksforgeeks.org/data-structures/binary-tree-data-structure/)
