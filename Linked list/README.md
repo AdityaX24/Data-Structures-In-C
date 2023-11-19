@@ -16,17 +16,17 @@ A linked list with a node that contains one data field and one link field which 
 **2) Doubly linked list:**
 A linked list with a node that contains one data field and two link fields, one which contains the address of the next node and one which contains the address of the previous node
 
-![Doubll](../../img/gfg_doublyll.png)
+![Doubll](../img/gfg_doublyll.png)
 
 **3) Singly Circular linked list:**
 A singly linked list where the last node in the list connects back to the first node to form a circle
 
-![Circll](../../img/gfg_circlyll.png)
+![Circll](../img/gfg_circlyll.png)
 
 
 **4) Doubly Circular linked list:**
 A doubly linked list where the last node in the list connects back to the first node to form a circle
 
-![DoubCircll](../../img/gfg_doublycircll.png)
+![DoubCircll](../img/gfg_doublycircll.png)
 
 Image Courtesy: [Geeks for geeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
