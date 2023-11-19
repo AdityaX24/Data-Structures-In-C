@@ -2,7 +2,7 @@
 
 A Stack is a linear data structure, where all the insertion and deletion of elements happen at one end. Hence it is called a LIFO(Last in, First out) data structure.
 
-![Stack](../../img/programiz_stack.png)
+![Stack](../img/programiz_stack.png)
 
 ### **There are four major operations that are performed on stack:**
 
