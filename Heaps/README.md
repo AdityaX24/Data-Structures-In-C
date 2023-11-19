@@ -6,7 +6,7 @@ A Heap can be defined as a Binary Tree with keys assigned to its node and provid
 2) - **The Max Heap requirement:** The key of each node must be greater than or equal to the key of its children
     - **The Min Heap requirement:** The key of each node must be smaller than or equal to the key of its children
 
-![heap](../../img/gfg_heap.png)
+![heap](../img/gfg_heap.png)
 
 ### **Applications - Priority Queues**:    
 - **Ascending Priority queue:** Min heap
